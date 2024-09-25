@@ -25,7 +25,7 @@
       "color": {
         "field": "RANK",
         "type": "quantitative",
-        "scale": {"scheme": "blues"}
+        "scale": {"scheme": "blues", "reverse": true}
       },
       "tooltip": [
         {"field": "properties.NAME", "type": "nominal", "title": "Country"},
